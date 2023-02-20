@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>518634998629-pto2rcpc8gpi19fdkq5h685u5273ii9a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.518634998629-pto2rcpc8gpi19fdkq5h685u5273ii9a</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>518634998629-gi808vtb133qpcnh6amhb4sr95jruuql.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBE4M4aC2C52lE_F-Sr61bNwTcJ728VCm4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>518634998629</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.alexgoga120.accesoMovilidad</string>
+	<key>PROJECT_ID</key>
+	<string>detalles-8f51f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>detalles-8f51f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:518634998629:ios:af197e81666043acd96f8c</string>
+	<key>DATABASE_URL</key>
+	<string>https://detalles-8f51f-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

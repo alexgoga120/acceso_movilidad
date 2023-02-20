@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "518634998629",
+    "firebase_url": "https://detalles-8f51f-default-rtdb.firebaseio.com",
+    "project_id": "detalles-8f51f",
+    "storage_bucket": "detalles-8f51f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518634998629:android:98738ea899f1a037d96f8c",
+        "android_client_info": {
+          "package_name": "com.alexgoga120.acceso_movilidad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518634998629-5fcqnknltf76li475ohg8ofbs46f0ia1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxy6_-zOn--0eKoAX3ag7mo0ih4qGoEyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518634998629-5fcqnknltf76li475ohg8ofbs46f0ia1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "518634998629-pto2rcpc8gpi19fdkq5h685u5273ii9a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.alexgoga120.accesoMovilidad"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518634998629:android:60eb0a27432e43d6d96f8c",
+        "android_client_info": {
+          "package_name": "com.example.detalles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518634998629-gi808vtb133qpcnh6amhb4sr95jruuql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.detalles",
+            "certificate_hash": "2ba6effa460f58d1f40b7e8778bfb5234f5f0f52"
+          }
+        },
+        {
+          "client_id": "518634998629-5fcqnknltf76li475ohg8ofbs46f0ia1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxy6_-zOn--0eKoAX3ag7mo0ih4qGoEyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518634998629-5fcqnknltf76li475ohg8ofbs46f0ia1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "518634998629-pto2rcpc8gpi19fdkq5h685u5273ii9a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.alexgoga120.accesoMovilidad"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
