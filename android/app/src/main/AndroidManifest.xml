@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.alexgoga120.acceso_movilidad">
+    <uses-permission android:name="android.permission.INTERNET" />
    <application
         android:label="acceso_movilidad"
         android:name="${applicationName}"

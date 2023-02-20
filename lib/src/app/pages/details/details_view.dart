@@ -1,5 +1,6 @@
 import 'package:acceso_movilidad/src/app/pages/details/details_controller.dart';
 import 'package:acceso_movilidad/src/app/utils/local_storage.dart';
+import 'package:acceso_movilidad/src/app/widgets/amCustomImg/amCustomImg.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter_clean_architecture/flutter_clean_architecture.dart';
@@ -45,8 +46,8 @@ class DetailsPageState extends ViewState<DetailsPage, DetailsController> {
                         color: controller.details[index].isFav
                             ? Colors.deepOrange
                             : Colors.white),
-                    leading: Image(
-                      image: NetworkImage(controller.details[index].drinkThumb),
+                    leading: AMCustomImg(
+                      image: controller.details[index].drinkThumb,
                     ),
                     onTap: () => {
                           controller.cocktailInfo(
